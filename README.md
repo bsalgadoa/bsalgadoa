@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bsalgadoa
+- 👋 Hi there, I’m @bsalgadoa
 - 👀 I’m interested in problem-solving, riding my bike and especially interested in enjoying life!!
 - 🌱 I’m currently learning Python3 trough codecademy and freecodecamp and will also start learnign AWS in order to get my associate cert.  
 - 📫 Reach me through @bsalgadoa or through my linkedin and.. 
