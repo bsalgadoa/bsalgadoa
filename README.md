@@ -4,7 +4,7 @@
 - ☁️ Will also start learnign AWS soon in order to get my associate cert 
 - 🏁 You can check some of my work & progress <a href="https://github.com/bsalgadoa/CodeWars">here</a>
 - 📫 Reach me through @bsalgadoa or through my <a href="https://www.linkedin.com/in/bernardo-salgado-andrade/">Linkedin</a> 
-- ![My Codewarrior Profile Badge](https://www.codewars.com/users/bsalgadoa/badges/micro) join me at <a href="https://www.codewars.com/users/bsalgadoa">CodeWars</a> 
+- 🥷 Join me at <a href="https://www.codewars.com/users/bsalgadoa">CodeWars</a> ![My Codewarrior Profile Badge](https://www.codewars.com/users/bsalgadoa/badges/micro) 
 <!---
 bsalgadoa/bsalgadoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
