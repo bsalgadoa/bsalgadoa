@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m <a href="https://www.linkedin.com/in/bernardo-salgado-andrade/">Bernardo</a> aka @bsalgadoa
+- 👋 Hi there, I’m <a href="https://www.linkedin.com/in/bernardo-salgado-andrade/">Bernardo</a>
 - 🔥 I’m a self-taught programmer and career changer, particularly interested in problem-solving, riding my bike and most of all, enjoying life!!
 - 💻 I've been learning programming since May and just started my MSc in Informatics at <a href="https://ciencias.ulisboa.pt/en/di">FCUL</a> ! 
 - 💥 <a href="https://github.com/bsalgadoa/AdventOfCode">Advent of Code</a> and <a href="https://www.codewars.com/users/bsalgadoa">CodeWars</a> player! ![My Codewarrior Profile Badge](https://www.codewars.com/users/bsalgadoa/badges/micro) 
