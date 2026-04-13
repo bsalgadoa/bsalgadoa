@@ -1,5 +1,7 @@
 👋 Backend Developer (Java)
+
 ⚙️ Microservices | APIs | CI/CD | Observability
+
 ☁️ AWS (in progress) | Distributed Systems
 
 📫 Reach me on LinkedIn
